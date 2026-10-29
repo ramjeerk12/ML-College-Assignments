@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Education,Annual Income (k$),Spending Score (1-100)
+1,M,19,High School,15,39
+2,M,21,Graduate,15,81
+3,F,20,Graduate,16,6
+4,F,23,High School,16,77
+5,F,31,Uneducated,17,40
+6,F,22,Graduate,17,76
+7,F,35,Unknown,18,6
+8,F,23,High School,18,94
+9,M,64,Uneducated,19,3
+10,F,30,Graduate,19,72
+11,M,67,Uneducated,19,14
+12,F,35,Unknown,19,99
+13,F,58,College,20,15
+14,F,24,Graduate,20,77
+15,M,37,Graduate,20,13
+16,M,22,Unknown,20,79
+17,F,35,Post-Graduate,21,35
+18,M,20,Unknown,21,66
+19,M,52,High School,23,29
+20,F,35,Graduate,23,98
+21,M,35,Doctorate,24,35
+22,M,25,Graduate,24,73
+23,F,46,High School,25,5
+24,M,31,Unknown,25,73
+25,F,54,Unknown,28,14
+26,M,29,Graduate,28,82
+27,F,45,High School,28,32
+28,M,35,Unknown,28,61
+29,F,40,Uneducated,29,31
+30,F,23,High School,29,87
+31,M,60,Unknown,30,4
+32,F,21,Uneducated,30,73
+33,M,53,Graduate,33,4
+34,M,18,College,33,92
+35,F,49,Graduate,33,14
+36,F,21,College,33,81
+37,F,42,Graduate,34,17
+38,F,30,High School,34,73
+39,F,36,Graduate,37,26
+40,F,20,Doctorate,37,75
+41,F,65,Graduate,38,35
+42,M,24,Unknown,38,92
+43,M,48,College,39,36
+44,F,31,High School,39,61
+45,F,49,Graduate,39,28
+46,F,24,Uneducated,39,65
+47,F,50,Doctorate,40,55
+48,F,27,Doctorate,40,47
+49,F,29,High School,40,42
+50,F,31,College,40,42
+51,F,49,Unknown,42,52
+52,M,33,Graduate,42,60
+53,F,31,High School,43,54
+54,M,59,Unknown,43,60
+55,F,50,Graduate,43,45
+56,M,47,Graduate,43,41
+57,F,51,Graduate,44,50
+58,M,69,Uneducated,44,46
+59,F,27,Graduate,46,51
+60,M,53,High School,46,46
+61,M,70,Unknown,46,56
+62,M,19,Graduate,46,55
+63,F,67,High School,47,52
+64,F,54,Post-Graduate,47,59
+65,M,63,High School,48,51
+66,M,18,Uneducated,48,59
+67,F,43,College,48,50
+68,F,68,Uneducated,48,48
+69,M,19,Graduate,48,59
+70,F,32,Doctorate,48,47
+71,M,70,Graduate,49,55
+72,F,47,Graduate,49,42
+73,F,60,Graduate,50,49
+74,F,60,Uneducated,50,56
+75,M,59,College,54,47
+76,M,26,Graduate,54,54
+77,F,45,Graduate,54,53
+78,M,40,Uneducated,54,48
+79,F,23,Graduate,54,52
+80,F,49,Graduate,54,42
+81,M,57,Graduate,54,51
+82,M,38,Unknown,54,55
+83,M,67,Unknown,54,41
+84,F,46,Graduate,54,44
+85,F,21,Graduate,54,57
+86,M,48,Graduate,54,46
+87,F,55,High School,57,58
+88,F,22,Uneducated,57,55
+89,F,34,High School,58,60
+90,F,50,Unknown,58,46
+91,F,68,High School,59,55
+92,M,18,High School,59,41
+93,M,48,Graduate,60,49
+94,F,40,Graduate,60,40
+95,F,32,Unknown,60,42
+96,M,24,Graduate,60,52
+97,F,47,Graduate,60,47
+98,F,27,Doctorate,60,50
+99,M,48,College,61,42
+100,M,20,Unknown,61,49
+101,F,23,College,62,41
+102,F,49,Unknown,62,48
+103,M,67,Graduate,62,59
+104,M,26,Graduate,62,55
+105,M,49,High School,62,56
+106,F,21,Post-Graduate,62,42
+107,F,66,Post-Graduate,63,50
+108,M,54,Uneducated,63,46
+109,M,68,Unknown,63,43
+110,M,66,Unknown,63,48
+111,M,65,Graduate,63,52
+112,F,19,Unknown,63,54
+113,F,38,High School,64,42
+114,M,19,Uneducated,64,46
+115,F,18,Graduate,65,48
+116,F,19,Graduate,65,50
+117,F,63,High School,65,43
+118,F,49,High School,65,59
+119,F,51,Doctorate,67,43
+120,F,50,High School,67,57
+121,M,27,Graduate,67,56
+122,F,38,Doctorate,67,40
+123,F,40,High School,69,58
+124,M,39,High School,69,91
+125,F,23,College,70,29
+126,F,31,Graduate,70,77
+127,M,43,Graduate,71,35
+128,M,40,Graduate,71,95
+129,M,59,High School,71,11
+130,M,38,Uneducated,71,75
+131,M,47,Graduate,71,9
+132,M,39,Unknown,71,75
+133,F,25,Graduate,72,34
+134,F,31,Graduate,72,71
+135,M,20,Doctorate,73,5
+136,F,29,Graduate,73,88
+137,F,44,High School,73,7
+138,M,32,College,73,73
+139,M,19,College,74,10
+140,F,35,Post-Graduate,74,72
+141,F,57,High School,75,5
+142,M,32,Unknown,75,93
+143,F,28,Graduate,76,40
+144,F,32,Graduate,76,87
+145,M,25,College,77,12
+146,M,28,Uneducated,77,97
+147,M,48,Graduate,77,36
+148,F,32,Graduate,77,74
+149,F,34,Graduate,78,22
+150,M,34,High School,78,90
+151,M,43,High School,78,17
+152,M,39,Graduate,78,88
+153,F,44,Graduate,78,20
+154,F,38,Uneducated,78,76
+155,F,47,College,78,16
+156,F,27,Unknown,78,89
+157,M,37,High School,78,1
+158,F,30,Doctorate,78,78
+159,M,34,Uneducated,78,1
+160,F,30,Graduate,78,73
+161,F,56,High School,79,35
+162,F,29,College,79,83
+163,M,19,Uneducated,81,5
+164,F,31,Unknown,81,93
+165,M,50,Uneducated,85,26
+166,F,36,Uneducated,85,75
+167,M,42,Uneducated,86,20
+168,F,33,Uneducated,86,95
+169,F,36,Graduate,87,27
+170,M,32,High School,87,63
+171,M,40,Uneducated,87,13
+172,M,28,High School,87,75
+173,M,36,Unknown,87,10
+174,M,36,High School,87,92
+175,F,52,High School,88,13
+176,F,30,Graduate,88,86
+177,M,58,Uneducated,88,15
+178,M,27,Graduate,88,69
+179,M,59,Uneducated,93,14
+180,M,35,Uneducated,93,90
+181,F,37,Uneducated,97,32
+182,F,32,Graduate,97,86
+183,M,46,Uneducated,98,15
+184,F,29,Graduate,98,88
+185,F,41,Graduate,99,39
+186,M,30,Uneducated,99,97
+187,F,54,Post-Graduate,101,24
+188,M,28,College,101,68
+189,F,41,High School,103,17
+190,F,36,Post-Graduate,103,85
+191,F,34,Graduate,103,23
+192,F,32,Graduate,103,69
+193,M,33,Graduate,113,8
+194,F,38,Doctorate,113,91
+195,F,47,Post-Graduate,120,16
+196,F,35,High School,120,79
+197,F,45,High School,126,28
+198,M,32,Uneducated,126,74
+199,M,32,High School,137,18
+200,M,30,College,137,83
